@@ -5,7 +5,6 @@ from selenium import webdriver
 import time
 import requests
 import bs4
-import pandas as ps
 
 def html_text_get(url):
     ### this function is to get desired html and return in to text
