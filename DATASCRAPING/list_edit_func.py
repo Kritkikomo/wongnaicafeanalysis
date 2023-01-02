@@ -1,3 +1,6 @@
+## these code is to manage the data to file or file to data
+#Note: these code was created before I study the pandas library if you know how to use pandas you can adapt pandas library to these code
+
 import os
 import json
 def add_list2text(path,name,lis):
