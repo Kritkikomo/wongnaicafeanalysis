@@ -32,10 +32,12 @@ def html_gen(url,outputname):
         file.write(html)
 
 def data_scraping(url):
-
+    '''
+    This function is select the string data from the selector that specify from html object
+    '''
     [html_text,b]=html_text_get(url)
     data=[]
-
+    # you can change the selector to change the text that want to select
     selector = ['span.bd36.bd18-mWeb.text-gray-700',
                 'div.rg14',
                 'div.Gap-sc-ilei7b.Container-sc-1lk8ybd.ikRntG.fiCVgM.badge-content',
