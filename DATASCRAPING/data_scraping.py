@@ -1,3 +1,5 @@
+## these code are to run the function to scrap the data from the urllink
+
 from manage_csv import *
 from data_scraping_func import*
 from list_edit_func import*
