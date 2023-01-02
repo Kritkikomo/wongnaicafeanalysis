@@ -22,3 +22,10 @@ Due to this project was created when I start to learn about python in that time 
 This python code was created to write and read a list and dict to a text file
 ###### 4. data_scraping.py 
 The data_scraping.py is the trigger file that will trigger the function in data_scraping_func.py and read the stored data via the manage_csv.py and list_edit_func.py
+
+# The visualize of data
+These are the example of analysis via Power BI .However, due to the license problem I can only show the photo of the project. In the future, I will use the same set of data to visualize in looker studio
+
+![alt text](https://github.com/Kritkikomo/wongnaicafeanalysis/blob/main/DATASCRAPING/wongnai/Chakrit_Wanthanathanya_cafe_analyse_Page_1.jpg?raw=true)
+![alt text](https://github.com/Kritkikomo/wongnaicafeanalysis/blob/main/DATASCRAPING/wongnai/Chakrit_Wanthanathanya_cafe_analyse_Page_2.jpg?raw=true)
+![alt text](https://github.com/Kritkikomo/wongnaicafeanalysis/blob/main/DATASCRAPING/wongnai/Chakrit_Wanthanathanya_cafe_analyse_Page_3.jpg?raw=true)
